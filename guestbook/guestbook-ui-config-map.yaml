@@ -1,0 +1,6 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: guestbook-ui
+data:
+  message: "I won't be deleted"
